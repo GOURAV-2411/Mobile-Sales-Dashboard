@@ -9,10 +9,10 @@
 
 4. Tech Stack :
    The dashboard was built using the following tools and technologies:
-   . Power BI Desktop - Main data visualization platform used for report creation.
-   . Power Query - Data transformation and cleaning layer for reshaping and preparing the data.
-   . DAX (Data Analysis Experssions) - Used for calculated measures, dynamic visuals and conditional logic.
-   . File Format - .pbix for development and .png for dashboard previews.
+   1. Power BI Desktop - Main data visualization platform used for report creation.
+   2. Power Query - Data transformation and cleaning layer for reshaping and preparing the data.
+   3. DAX (Data Analysis Experssions) - Used for calculated measures, dynamic visuals and conditional logic.
+   4. File Format - .pbix for development and .png for dashboard previews.
 
 5. Features :
    1. Sales Breakdown
