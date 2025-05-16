@@ -31,4 +31,4 @@
     . Pie chart showing proportions of UPI, Debit Card, Credit Card, and Cash payments.
       
 6. Screenshot : 
-   Dashboard Preview: https://github.com/GOURAV-2411/Mobile-Sales-Dashboard/blob/main/Snapshot%20of%20the%20Dashboard.png
+   ![Dashboard Preview](https://github.com/GOURAV-2411/Mobile-Sales-Dashboard/blob/main/Snapshot%20of%20the%20Dashboard.png)
